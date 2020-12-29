@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/chck_anim01" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim02" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim03" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim04" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim05" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim06" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim07" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim08" android:duration="100"/>
+    <item android:drawable="@drawable/chck_anim09" android:duration="100"/>
+</animation-list>

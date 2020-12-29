@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContraintLayout</string>
+    <string name="txtBienvenida">Hola, bienvenidos a mi proyecto, por favor inicia sesión.</string>
+    <string name="title_activity_gym">MainActivity</string>
+    <!--<string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_Velocidad">Velocidad</string>-->
+    <string name="title_Horario">Horario</string>
+    <string name="title_Tiempo">Tiempo</string>
+    <string name="title_Settings">Ajustes</string>
+    <string name="title_ListaEntrenadores">Lista de entrenadores</string>
+    <string name="title_Entrenadores">Entrenadores</string>
+
+    <string name="action_add_trainer">Añadir entrenador</string>
+</resources>

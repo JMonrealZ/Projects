@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_entrenadores"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/title_Entrenadores"/>
+    <item
+        android:id="@+id/navigation_horarios"
+        android:icon="@drawable/ic_baseline_schedule_24"
+        android:title="@string/title_Horario" />
+
+    <item
+        android:id="@+id/navigation_tiempo"
+        android:icon="@drawable/ic_baseline_cloud_24"
+        android:title="@string/title_Tiempo" />
+
+    <item
+        android:id="@+id/navigation_ajustes"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/title_Settings"/>
+
+</menu>
