@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='Shared Preferences And Splash Screen'
