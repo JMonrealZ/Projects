@@ -7,7 +7,7 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
 import com.example.contraintlayout.db.dao.EntrenadoresDAO;
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 
 @Database(entities = {EntrenadorEntity.class}, version = 1)   //"Entidades que conforman la base de datos
 public abstract class  EntrenadorRoomDB extends RoomDatabase {

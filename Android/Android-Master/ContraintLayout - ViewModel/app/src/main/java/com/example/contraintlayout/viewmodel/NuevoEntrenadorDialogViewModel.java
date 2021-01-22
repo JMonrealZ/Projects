@@ -7,7 +7,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.example.contraintlayout.EntrenadorRepository;
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 
 import java.util.List;
 

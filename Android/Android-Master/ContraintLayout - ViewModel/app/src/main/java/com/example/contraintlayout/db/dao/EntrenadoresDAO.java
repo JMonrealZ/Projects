@@ -6,7 +6,8 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 
 import java.util.List;
 
