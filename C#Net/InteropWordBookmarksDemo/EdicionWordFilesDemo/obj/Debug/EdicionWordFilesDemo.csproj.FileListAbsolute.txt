@@ -1,0 +1,30 @@
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe.config
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.pdb
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csprojAssemblyReference.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Form1.resources
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Properties.Resources.resources
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.GenerateResource.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.CoreCompileInputs.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.exe
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\BasicProjectsCSh\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.pdb
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe.config
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.pdb
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csprojAssemblyReference.cache
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Form1.resources
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Properties.Resources.resources
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.GenerateResource.cache
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.exe
+C:\Users\Ivan.Monreal\Desktop\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.pdb
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe.config
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.exe
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\bin\Debug\EdicionWordFilesDemo.pdb
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csprojAssemblyReference.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Form1.resources
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.Properties.Resources.resources
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.GenerateResource.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.csproj.CoreCompileInputs.cache
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.exe
+C:\Users\JMONREAL\OneDrive - Impulsora Elizondo\Escritorio\WordFiles\EdicionWordFilesDemo\EdicionWordFilesDemo\obj\Debug\EdicionWordFilesDemo.pdb
