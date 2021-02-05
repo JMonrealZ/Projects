@@ -21,7 +21,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.contraintlayout.viewmodel.NuevoEntrenadorDialogViewModel;
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 import com.example.contraintlayout.ui.Adapters.EntrenadorViewAdapter;
 import com.example.contraintlayout.R;
 

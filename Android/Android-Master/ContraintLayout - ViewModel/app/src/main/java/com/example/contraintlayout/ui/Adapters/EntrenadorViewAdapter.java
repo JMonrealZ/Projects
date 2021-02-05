@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.contraintlayout.viewmodel.NuevoEntrenadorDialogViewModel;
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 import com.example.contraintlayout.R;
 
 import java.util.List;

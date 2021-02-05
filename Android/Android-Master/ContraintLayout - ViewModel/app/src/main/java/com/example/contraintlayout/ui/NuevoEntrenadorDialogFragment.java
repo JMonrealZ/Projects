@@ -19,7 +19,7 @@ import android.widget.RadioGroup;
 import android.widget.Spinner;
 
 import com.example.contraintlayout.R;
-import com.example.contraintlayout.db.entity.EntrenadorEntity;
+import com.example.contraintlayout.db.entity2.EntrenadorEntity;
 import com.example.contraintlayout.viewmodel.NuevoEntrenadorDialogViewModel;
 
 public class NuevoEntrenadorDialogFragment extends DialogFragment {
